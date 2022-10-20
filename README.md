@@ -5,7 +5,7 @@
 # 克隆到本地
 
 ```bash
-npx degit xiziliang/start-ts my-ts-app
-cd my-ts-app
+npx degit xiziliang/starter-ts my-ts-template
+cd my-ts-template
 pnpm i # 如果你没装过 pnpm, 可以先运行: npm install -g pnpm
 ```
